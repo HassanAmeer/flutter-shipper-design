@@ -54,7 +54,6 @@ class _Step2State extends State<Step2> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        // backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         backgroundColor: MaterialColors.primaryColor,
         leading: const Text(''),
         centerTitle: true,
