@@ -4,7 +4,6 @@ import '../../utils/colors/materialcolors.dart';
 import '../../widgets/steper.dart';
 import 'step1.dart';
 import 'step3.dart';
-import 'step4.dart';
 
 class Step2 extends StatefulWidget {
   const Step2({super.key});

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import '../../utils/colors/materialcolors.dart';
 import '../../widgets/steper.dart';
 import 'step2.dart';
-import 'step3.dart';
 
 class Step1 extends StatefulWidget {
   const Step1({super.key});

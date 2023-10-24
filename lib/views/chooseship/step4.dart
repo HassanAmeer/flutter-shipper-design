@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shipper/resources/assets.dart';
 import '../../utils/colors/materialcolors.dart';
 import 'step5.dart';
 
